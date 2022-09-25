@@ -1,9 +1,11 @@
+
 ![image](https://user-images.githubusercontent.com/108227999/192131039-1c3c8e55-8fc7-498c-a065-bebf6ef70bc6.png)
 <br><br>
-
+<header>
 I am from Hyderabad!
 <br><br>
 <h4>It's me, Pranay Gullepelli. You've probably never heard of me. And I've never thought of writing a README for myself. Usually README's are written for applicatiions or softwares, but here I am writing a README about me. READ me. And you cannot star this repo, even if you click star button.</h4>
+</header>
 
 
 🔭 I’m currently working on automation testing<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning AI & ML<br>💬 Ask me about blogs<br>⚡ Fun fact I have a broken humor
